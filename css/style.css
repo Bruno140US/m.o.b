@@ -85,8 +85,8 @@ section {
 
 .home {
     background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('https://wallpapercave.com/wp/wp2090540.jpg');
-    background-position: top, left;
-    background-size: contain;
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
