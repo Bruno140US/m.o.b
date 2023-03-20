@@ -56,3 +56,11 @@ const typed = new Typed('.multiple-text', {
     backDelay: 1000,
     loop: true
 });
+
+/*============================ type js ============================*/
+const audio = document.getElementsByClassName('home-audio');
+audio.pause();
+
+setTimeout(() => {
+    audio.play();
+}, 5000);
