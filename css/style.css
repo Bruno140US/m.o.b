@@ -51,7 +51,7 @@ section {
 
 .header .logo {
     font-family: 'Sedgwick Ave', cursive;
-    font-size: 4rem;
+    font-size: 2.6rem;
 }
 
 .header.sticky {
@@ -59,7 +59,7 @@ section {
 }
 
 .logo {
-    font-size: 2.5rem;
+    font-size: 2.6rem;
     color: var(--text-color);
     font-weight: 600;
     cursor: default;
